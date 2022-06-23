@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Andrew-Ten-Den
+# Created by: Dahrio Francois
 # Created on: June 2022
 # This program finds the smallest of 10 random numbers
 
